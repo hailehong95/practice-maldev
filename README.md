@@ -1,6 +1,5 @@
 ## Practice-MalDev
-- MBR Overwriting Viruses
-- Simple Keylogger
+- 
 
 ## Disclaimer
 

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dll-no-export", "dll-no-export\dll-no-export.vcxproj", "{4691A5A1-0C3E-4D47-90C2-482181364CA7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dll-with-exported", "dll-with-exported\dll-with-exported.vcxproj", "{5327F2AB-E9E0-4DA4-8183-31C0978B2921}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4691A5A1-0C3E-4D47-90C2-482181364CA7}.Debug|x64.ActiveCfg = Debug|x64
+		{4691A5A1-0C3E-4D47-90C2-482181364CA7}.Debug|x86.ActiveCfg = Debug|Win32
+		{4691A5A1-0C3E-4D47-90C2-482181364CA7}.Release|x64.ActiveCfg = Release|x64
+		{4691A5A1-0C3E-4D47-90C2-482181364CA7}.Release|x64.Build.0 = Release|x64
+		{4691A5A1-0C3E-4D47-90C2-482181364CA7}.Release|x86.ActiveCfg = Release|Win32
+		{4691A5A1-0C3E-4D47-90C2-482181364CA7}.Release|x86.Build.0 = Release|Win32
+		{5327F2AB-E9E0-4DA4-8183-31C0978B2921}.Debug|x64.ActiveCfg = Debug|x64
+		{5327F2AB-E9E0-4DA4-8183-31C0978B2921}.Debug|x86.ActiveCfg = Debug|Win32
+		{5327F2AB-E9E0-4DA4-8183-31C0978B2921}.Release|x64.ActiveCfg = Release|x64
+		{5327F2AB-E9E0-4DA4-8183-31C0978B2921}.Release|x64.Build.0 = Release|x64
+		{5327F2AB-E9E0-4DA4-8183-31C0978B2921}.Release|x86.ActiveCfg = Release|Win32
+		{5327F2AB-E9E0-4DA4-8183-31C0978B2921}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D094A03-77EF-494B-B69E-DEDF283F1102}
+	EndGlobalSection
+EndGlobal
