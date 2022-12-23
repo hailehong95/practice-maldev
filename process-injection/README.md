@@ -1,4 +1,3 @@
 ### Process Injection Techniques
-- For more:
-    https://www.elastic.co/blog/ten-process-injection-techniques-technical-survey-common-and-trending-process
-    https://attack.mitre.org/techniques/T1055/
+ - https://www.elastic.co/blog/ten-process-injection-techniques-technical-survey-common-and-trending-process
+ - https://attack.mitre.org/techniques/T1055/
