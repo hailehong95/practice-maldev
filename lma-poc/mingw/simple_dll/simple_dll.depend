@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1602573253 source:c:\users\hai\desktop\sample\lma_code\simple_dll\main.cpp
+	"main.h"
+	<stdio.h>
+
+1602573096 c:\users\hai\desktop\sample\lma_code\simple_dll\main.h
+	<windows.h>
+
